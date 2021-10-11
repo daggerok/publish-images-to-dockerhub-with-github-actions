@@ -1,4 +1,4 @@
-# publish-images-to-dockerhub-with-github-actions
+# publish-images-to-dockerhub-with-github-actions [![CI](https://github.com/daggerok/publish-images-to-dockerhub-with-github-actions/actions/workflows/ci.yaml/badge.svg?branch=v1.0.0)](https://github.com/daggerok/publish-images-to-dockerhub-with-github-actions/actions/workflows/ci.yaml)
 This repository demonstrates how to push your images to Docker Hub using GitHub Actions
 
 ## use
